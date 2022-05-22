@@ -1,10 +1,10 @@
 # Site navigation links
 
-- title: Blog Posts
-  url: /blog-posts/
-
-- title: Projects
-  url: /projects/
+# - title: Blog Posts
+#   url: /blog-posts/
+#
+# - title: Projects
+#   url: /projects/
 
 - title: Curriculum Vitae
   url: /cv.pdf
