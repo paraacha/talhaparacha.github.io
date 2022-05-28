@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            Talha Paracha
+title:            Muhammad Talha Paracha
 locale:           en_US
 url:              https://talhaparacha.com/
 
@@ -26,7 +26,7 @@ kramdown:
 
 # Site owner
 owner:
-  name: Talha Paracha
+  name: Muhammad Talha Paracha
   avatar: my-image.png
   bio: "Science and philosophy enthusiast."
   email: paracha.m@husky.neu.edu
